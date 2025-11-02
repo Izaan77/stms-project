@@ -22,7 +22,7 @@ Frontend: React.js, Chart.js
 
 🚀 Setup
 # Clone repo
-git clone https://github.com/chogezzz/STMS.git
+git clone https://github.com/Izaan77/stms-project.git
 cd STMS
 
 # Backend
